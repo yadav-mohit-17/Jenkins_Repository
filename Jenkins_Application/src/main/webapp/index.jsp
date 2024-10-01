@@ -1,1 +1,1 @@
-<h1 style="color:pink; text-align: center;">WELCOME TO JENKINS APPLICATION</h1>
+<h1 style="color:red; text-align: center;">WELCOME TO JENKINS APPLICATION</h1>
